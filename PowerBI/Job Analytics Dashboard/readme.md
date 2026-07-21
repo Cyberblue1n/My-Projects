@@ -15,39 +15,25 @@ Sort the chart in descending order based on the number of job postings.
 
 Instead of a Tableau Scatter Plot, use a Clustered Column Chart.
 
-Visualization
+Visualization: Clustered Column Chart
 
-Clustered Column Chart
+X-Axis: Company Name
 
-X-Axis
-
-Company Name
-
-Y-Axis
-
-Average Company Size
+Y-Axis: Average Company Size
 
 Filters
-Company Size < 50,000
-Job Title = Mechanical Engineer
-Experience > 5 Years
-Salary > $50,000
-Work Type = Full-Time OR Part-Time
-Preference = Male
-Country belongs to Asia
-Country does NOT start with "I"
-Job Portal = Idealist
-Company Name contains at least two vowels
+1. Company Size < 50,000
+2. Job Title = Mechanical Engineer
+3. Experience > 5 Years
+4. Salary > $50,000
+5. Work Type = Full-Time OR Part-Time
+6. Preference = Male
+7. Country belongs to Asia
+8. Country does NOT start with "I"
+9. Job Portal = Idealist
+10. Company Name contains at least two vowels
 
 Sort companies by Company Size.
-
-Time Restriction
-
-Instead of making the chart disappear between 3–5 PM (which Power BI Service can do only with refresh or custom solutions), create a DAX measure that displays a message:
-
-"Visible only between 3 PM and 5 PM IST."
-
-or remove the time restriction entirely.
 
 <h1>Task 3 - Work Type Salary Distribution</h1>
 
