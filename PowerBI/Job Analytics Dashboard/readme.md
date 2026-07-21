@@ -1,15 +1,14 @@
 <h1>Task 1 - Preference vs Work Type (No Change Needed)</h1>
 Visualization: Clustered Bar Chart
 
-Task
-
+**Task**
 Create a clustered bar chart showing the relationship between Preference and Work Type, considering only jobs where Work Type = Intern.
 
-Apply the following filters:
-
-Company Size < 50,000
-Salary > $9,000
-
+<p>Apply the following filters:</p>
+<ul>
+<li>Company Size < 50,000</li>
+<li>Salary > $9,000</li>
+</ul>
 Sort the chart in descending order based on the number of job postings.
 
 <h1>Task 2 - Company Size Analysis (Replace Scatter Plot)</h1>
