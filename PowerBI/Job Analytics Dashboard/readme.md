@@ -12,7 +12,7 @@ Salary > $9,000
 
 Sort the chart in descending order based on the number of job postings.
 
-Task 2 - Company Size Analysis (Replace Scatter Plot)
+<h1>Task 2 - Company Size Analysis (Replace Scatter Plot)</h1>
 
 Instead of a Tableau Scatter Plot, use a Clustered Column Chart.
 
@@ -50,7 +50,7 @@ Instead of making the chart disappear between 3–5 PM (which Power BI Service c
 
 or remove the time restriction entirely.
 
-Task 3 - Work Type Salary Distribution
+<h1>Task 3 - Work Type Salary Distribution</h1>
 
 Power BI supports Box Plot through custom visuals.
 
@@ -75,7 +75,8 @@ Job Title length < 10
 Experience is an even number
 Posting Year between 2021 and 2023
 Contact Person contains letter "e"
-Task 4 - India vs Germany Comparison
+
+<h1>Task 4 - India vs Germany Comparison</h1>
 
 (No change needed)
 
@@ -111,7 +112,7 @@ Location not blank
 
 Use different colors for each country.
 
-Task 5 - Top 10 Companies
+<h1>Task 5 - Top 10 Companies</h1>
 
 Treemap is supported.
 
@@ -144,7 +145,8 @@ Posting Date between
 01-Jan-2023
 06-Jan-2023
 Contact Person ends with a vowel
-Task 6 - Qualification Drilldown Map
+
+<h1>Task 6 - Qualification Drilldown Map</h1>
 
 Power BI supports drill-down very well.
 
