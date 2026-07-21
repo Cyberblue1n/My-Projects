@@ -39,60 +39,48 @@ Sort companies by Company Size.
 
 Power BI supports Box Plot through custom visuals.
 
-If you don't want custom visuals, use a Histogram + Salary Statistics Card.
+If you don't want custom visuals, use a **Histogram + Salary Statistics Card.**
 
-Visualization
-
-Histogram
+Visualization: Histogram
 
 Additional Cards
-Average Salary
-Median Salary
-Maximum Salary
-Minimum Salary
+<ul>
+<li>Average Salary</li>
+<li>Median Salary</li>
+<li>Maximum Salary</li>
+<li>Minimum Salary</li>
+</ul>
+
 Filters
-Work Type = Intern
-Latitude < 10
-Company Size < 50,000
-Salary > $8,000
-Job Title contains only one word
-Job Title length < 10
-Experience is an even number
-Posting Year between 2021 and 2023
-Contact Person contains letter "e"
+1. Work Type = Intern
+2. Latitude < 10
+3. Company Size < 50,000
+4. Salary > $8,000
+5. Job Title contains only one word
+6. Job Title length < 10
+7. Experience is an even number
+8. Posting Year between 2021 and 2023
+9. Contact Person contains letter "e"
 
 <h1>Task 4 - India vs Germany Comparison</h1>
 
-(No change needed)
+Visualization: Stacked Column Chart
 
-Visualization
+Axis: Country
 
-Stacked Column Chart
+Legend: Job Title
 
-Axis
-
-Country
-
-Legend
-
-Job Title
-
-Values
-
-Count of Job Postings
+Values: Count of Job Postings
 
 Filters
-Country = India or Germany
-Qualification = B.Tech
-Work Type = Full-Time
-Experience > 2
-Job Title
-Data Scientist
-Art Teacher
-Aerospace Engineer
-Salary > $10,000
-Job Portal = Indeed
-Company Name length > 8
+*Country = India or Germany
+*Qualification = B.Tech
+*Work Type = Full-Time
+*Experience > 2
+*Job Title: Data Scientist, Art Teacher, Aerospace Engineer
+*Salary > $10,000
+*Job Portal = Indeed
+*Company Name length > 8
 Location not blank
 
 Use different colors for each country.
@@ -101,91 +89,64 @@ Use different colors for each country.
 
 Treemap is supported.
 
-Visualization
+Visualization: Treemap
 
-Treemap
+Group: Company Name
 
-Group
+Values: Count of Jobs
 
-Company Name
+Top N Filter: Top 10 Companies
 
-Values
-
-Count of Jobs
-
-Top N Filter
-
-Top 10 Companies
-
-Additional Filters
-Role = Data Engineer
-Job Title = Data Scientist
-Country NOT in Asia
-Country does NOT start with "C"
-Company Size ≥ 10,000
-Qualification = B.Tech
-Preference = Female
-Job Portal = LinkedIn
-Posting Date between
-01-Jan-2023
-06-Jan-2023
-Contact Person ends with a vowel
+**Additional Filters**
+*Role = Data Engineer
+*Job Title = Data Scientist
+*Country NOT in Asia
+*Country does NOT start with "C"
+*Company Size ≥ 10,000
+*Qualification = B.Tech
+*Preference = Female
+*Job Portal = LinkedIn
+*Posting Date between: 01-Jan-2023 to 06-Jan-2023
+*Contact Person ends with a vowel
 
 <h1>Task 6 - Qualification Drilldown Map</h1>
 
 Power BI supports drill-down very well.
 
-Visualization
+Visualization: Map
 
-Map
-
-Location Hierarchy
+**Location Hierarchy**
 
 Country
-
 ↓
-
 State
-
 ↓
-
 City
-
 ↓
-
 Location
 
-Latitude
+Latitude: Latitude
 
-Latitude
+Longitude: Longitude
 
-Longitude
-
-Longitude
-
-Bubble Size
-
-Count of Jobs
+Bubble Size: Count of Jobs
 
 Filters
-African Countries
-Qualification
-B.Tech
-M.Tech
-PhD
-Work Type = Full-Time
-Job Title starts with D
-Preference = Male
-Company Size > 80,000
-Salary > $20,000
-Contact Person starts with A
-Job Portal = Indeed
+*African Countries
+*Qualification: B.Tech, M.Tech, PhD
+*Work Type = Full-Time
+*Job Title starts with D
+*Preference = Male
+*Company Size > 80,000
+*Salary > $20,000
+*Contact Person starts with A
+*Job Portal = Indeed
 
 Enable Drill Down so users can click through from Country → State → City → Exact Location.
 
-Instead of restricting visibility between 3 PM and 6 PM IST, display a card indicating the intended viewing window or omit the time-based requirement.
 
-Final Dashboard Layout
+
+<h1>Final Dashboard Layout</h1>
 
 You can combine everything into a professional 6-page Power BI dashboard.
 
