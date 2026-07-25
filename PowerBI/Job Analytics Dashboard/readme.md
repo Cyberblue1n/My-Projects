@@ -28,10 +28,9 @@ Filters
 4. Salary > $50,000
 5. Work Type = Full-Time OR Part-Time
 6. Preference = Male
-7. Country belongs to Asia
-8. Country does NOT start with "I"
-9. Job Portal = Idealist
-10. Company Name contains at least two vowels
+7. Country does NOT start with "I"
+8. Job Portal = Idealist
+9. Company Name contains at least two vowels
 
 Sort companies by Company Size.
 
