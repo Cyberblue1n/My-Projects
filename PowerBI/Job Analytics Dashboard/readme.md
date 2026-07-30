@@ -1,4 +1,4 @@
-<h1>Task 1 - Preference vs Work Type (No Change Needed)</h1>
+<h1>Task 1 - Preference vs Work Type </h1>
 Visualization: Clustered Bar Chart
 
 **Task**
@@ -11,9 +11,9 @@ Create a clustered bar chart showing the relationship between Preference and Wor
 </ul>
 Sort the chart in descending order based on the number of job postings.
 
-<h1>Task 2 - Company Size Analysis (Replace Scatter Plot)</h1>
+<h1>Task 2 - Company Size Analysis </h1>
 
-Instead of a Tableau Scatter Plot, use a Clustered Column Chart.
+use a Clustered Column Chart.
 
 Visualization: Clustered Column Chart
 
