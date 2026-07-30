@@ -139,10 +139,6 @@ You can combine everything into a professional 6-page Power BI dashboard.
         <td>Page 5</td>
         <td>India vs Germany Comparison + Top Companies</td>
     </tr>
-    <tr>
-        <td>Page 6</td>
-        <td>Geographic Analysis (Map + Drilldown)</td>
-    </tr>
 </table>
 
 ![Typing GIF](https://cdn.dribbble.com/userupload/41936819/file/original-ec91ff21c84fea9ee3c950988f39a00d.gif)
