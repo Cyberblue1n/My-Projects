@@ -108,41 +108,6 @@ Top N Filter: Top 10 Companies
 *Posting Date between: 01-Jan-2023 to 06-Jan-2023
 *Contact Person ends with a vowel
 
-<h1>Task 6 - Qualification Drilldown Map</h1>
-
-Power BI supports drill-down very well.
-
-Visualization: Map
-
-**Location Hierarchy**
-
-Country
-↓
-State
-↓
-City
-↓
-Location
-
-Latitude: Latitude
-
-Longitude: Longitude
-
-Bubble Size: Count of Jobs
-
-Filters
-*African Countries
-*Qualification: B.Tech, M.Tech, PhD
-*Work Type = Full-Time
-*Job Title starts with D
-*Preference = Male
-*Company Size > 80,000
-*Salary > $20,000
-*Contact Person starts with A
-*Job Portal = Indeed
-
-Enable Drill Down so users can click through from Country → State → City → Exact Location.
-
 
 
 <h1>Final Dashboard Layout</h1>
