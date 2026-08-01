@@ -111,6 +111,6 @@ Top N Filter: Top 10 Companies
 
 
 <h1>Final Dashboard </h1>
-![dashboard image](Dashboard_Job_Analytics.png)
+<img src="Dashboard_Job_Analytics.png" width="900">
 
 ![Typing GIF](https://cdn.dribbble.com/userupload/41936819/file/original-ec91ff21c84fea9ee3c950988f39a00d.gif)
