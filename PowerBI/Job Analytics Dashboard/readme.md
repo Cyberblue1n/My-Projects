@@ -55,6 +55,7 @@ Filters
 9. Contact Person contains letter "e"
 
 <h1>Task 4 - India vs Germany Comparison</h1>
+<p>India vs Germany Job Comparison: Create a Stacked Column Chart to compare the count of job postings across India and Germany. Use Country on the X-axis, Job Title as the Legend, and Count of Job Postings as the Values. Apply the following filters: Country = India and Germany, Qualification = B.Tech, Work Type = Full-Time, Experience greater than 2 years, Job Title = Data Scientist, Art Teacher, or Aerospace Engineer, Salary greater than $10,000, Job Portal = Indeed or Idealist, and Company Name length greater than 8 characters. This visualization helps compare the distribution of selected job roles between India and Germany under the specified conditions.</p>
 
 Visualization: Stacked Column Chart
 
@@ -78,7 +79,7 @@ Location not blank
 Use different colors for each country.
 
 <h1>Task 5 - Top 10 Companies</h1>
-
+<p>Top 10 Companies: Create a Treemap to display the top 10 companies based on the count of jobs. Use Company Name as the Details field and Count of Jobs as the Values field. Apply a Top N filter to display only the Top 10 companies. Additionally, apply the following filters: Role = Data Engineer, Job Title = Data Scientist, Country not in Asia, Country does not start with the letter "C", Company Size greater than or equal to 10,000, Qualification = B.Tech, Preference = Female, Job Portal = LinkedIn, Posting Date between 01-Jan-2023 and 06-Jan-2023, and Contact Person's name ends with a vowel. This visualization helps identify the leading companies that match the specified hiring criteria.</p>
 Treemap is supported.
 
 Visualization: Treemap
