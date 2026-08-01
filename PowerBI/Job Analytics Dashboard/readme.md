@@ -2,7 +2,7 @@
 Visualization: Clustered Bar Chart
 
 **Task**
-Create a clustered bar chart showing the relationship between Preference and Work Type, considering only jobs where Work Type = Intern.
+Preference vs Work Type: Create a clustered bar chart to visualize the relationship between Preference and Work Type, considering only job postings where Work Type = "Intern". Apply the following filters: Company Size less than 50,000 and Salary greater than $9,000. Finally, sort the chart in descending order based on the number of job postings (count). This visualization helps identify how different job preferences are distributed across internship opportunities after applying the specified filters.
 
 <p>Apply the following filters:</p>
 <ul>
@@ -11,7 +11,9 @@ Create a clustered bar chart showing the relationship between Preference and Wor
 </ul>
 Sort the chart in descending order based on the number of job postings.
 
+
 <h1>Task 2 - Company Size Analysis </h1>
+<p>Company Size vs Company Name: Create a Clustered Column Chart to display the average Company Size for each Company Name. Apply the following filters: Company Size less than 50,000, Job Title = "Mechanical Engineer", Experience greater than 5 years, Salary greater than $50,000, Work Type = Full-Time or Part-Time, Preference = Male, Country does not start with the letter "I", Job Portal = Idealist, and Company Name contains at least two vowels. Sort the companies by Average Company Size and display only the Top 15 companies. This visualization helps compare the average size of selected companies that meet the specified criteria.</p>
 
 use a Clustered Column Chart.
 
@@ -35,20 +37,11 @@ Filters
 Sort companies by Company Size.
 
 <h1>Task 3 - Work Type Salary Distribution</h1>
+<p>Work Type Salary Distribution: Create a Histogram to visualize the distribution of Salary using 20 bins. Apply the following filters: Work Type = "Intern", Company Size less than 50,000, Salary greater than $8,000, Job Title length less than 10 characters, Experience is an even number, Posting Year between 2021 and 2023, and Contact Person contains the letter "e". This visualization helps analyze the salary distribution of internship opportunities that satisfy the specified conditions.</p>
 
-Power BI supports Box Plot through custom visuals.
-
-If you don't want custom visuals, use a **Histogram + Salary Statistics Card.**
 
 Visualization: Histogram
 
-Additional Cards
-<ul>
-<li>Average Salary</li>
-<li>Median Salary</li>
-<li>Maximum Salary</li>
-<li>Minimum Salary</li>
-</ul>
 
 Filters
 1. Work Type = Intern
