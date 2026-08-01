@@ -110,35 +110,7 @@ Top N Filter: Top 10 Companies
 
 
 
-<h1>Final Dashboard Layout</h1>
+<h1>Final Dashboard </h1>
 
-You can combine everything into a professional 6-page Power BI dashboard.
-
-<table>
-    <tr>
-        <th>Page</th>
-        <th>Dashboard</th>
-    </tr>
-    <tr>
-        <td>Page 1</td>
-        <td>Executive Overview (KPIs + slicers + summary cards)</td>
-    </tr>
-    <tr>
-        <td>Page 2</td>
-        <td>Preference vs Internship Analysis</td>
-    </tr>
-    <tr>
-        <td>Page 3</td>
-        <td>Company Analysis (Mechanical Engineer Hiring)</td>
-    </tr>
-    <tr>
-        <td>Page 4</td>
-        <td>Salary Distribution & Statistics</td>
-    </tr>
-    <tr>
-        <td>Page 5</td>
-        <td>India vs Germany Comparison + Top Companies</td>
-    </tr>
-</table>
 
 ![Typing GIF](https://cdn.dribbble.com/userupload/41936819/file/original-ec91ff21c84fea9ee3c950988f39a00d.gif)
