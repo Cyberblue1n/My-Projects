@@ -45,14 +45,13 @@ Visualization: Histogram
 
 Filters
 1. Work Type = Intern
-2. Latitude < 10
-3. Company Size < 50,000
-4. Salary > $8,000
-5. Job Title contains only one word
-6. Job Title length < 10
-7. Experience is an even number
-8. Posting Year between 2021 and 2023
-9. Contact Person contains letter "e"
+2. Company Size < 50,000
+3. Salary > $8,000
+4. Job Title contains only one word
+5. Job Title length < 10
+6. Experience is an even number
+7. Posting Year between 2021 and 2023
+8. Contact Person contains letter "e"
 
 <h1>Task 4 - India vs Germany Comparison</h1>
 <p>India vs Germany Job Comparison: Create a Stacked Column Chart to compare the count of job postings across India and Germany. Use Country on the X-axis, Job Title as the Legend, and Count of Job Postings as the Values. Apply the following filters: Country = India and Germany, Qualification = B.Tech, Work Type = Full-Time, Experience greater than 2 years, Job Title = Data Scientist, Art Teacher, or Aerospace Engineer, Salary greater than $10,000, Job Portal = Indeed or Idealist, and Company Name length greater than 8 characters. This visualization helps compare the distribution of selected job roles between India and Germany under the specified conditions.</p>
