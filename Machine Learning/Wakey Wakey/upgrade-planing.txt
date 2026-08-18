@@ -1,0 +1,13 @@
+upgradtion:
+1. 20m distance it will detect and tell whether
+we sit in the distance between 20m or not from
+our laptop
+2. it will count our blinking in the range of 
+  20 mintues whether our is blinking is properly 
+or properly or not
+
+idea given by Sukanya Dey
+
+
+
+
